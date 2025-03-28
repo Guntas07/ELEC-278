@@ -1,0 +1,3 @@
+/home/gtoor/Documents/ELEC278/Lab1/helloWorld/build/CMakeFiles/helloWorld.dir
+/home/gtoor/Documents/ELEC278/Lab1/helloWorld/build/CMakeFiles/edit_cache.dir
+/home/gtoor/Documents/ELEC278/Lab1/helloWorld/build/CMakeFiles/rebuild_cache.dir
